@@ -1,0 +1,5 @@
+jQuery Image Scale Carousel 和其他幻灯片不同的是，
+我们只需要改变外部容器的大小就可以将整个幻灯片调整到我们想要的大小以适应自己的页面，
+同时幻灯片中的任何元素都能很好地适应而不会发生变形。
+
+#demo[Demo](http://johnpatrickgiven.com/jquery/Image-Scale-Carousel/)
